@@ -8,3 +8,6 @@ samo da dodam neki teksta da probam da li ovo radi
 Izgleda da radi sve kako treba , 
 ajde jos jedan red da dodam
 mada trebalo bi da radi i bez novog reda :)
++
++
++
